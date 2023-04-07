@@ -1,0 +1,17 @@
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.csproj.AssemblyReference.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.AssemblyInfoInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.AssemblyInfo.cs
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.csproj.CoreCompileInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Data.deps.json
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Data.runtimeconfig.json
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Data.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Data.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Common.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\bin\Debug\net6.0\MultiplePublisher.Common.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.csproj.CopyComplete
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\refint\MultiplePublisher.Data.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\MultiplePublisher.Data.genruntimeconfig.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Data\obj\Debug\net6.0\ref\MultiplePublisher.Data.dll

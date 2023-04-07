@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RUsC/gGpjUQ1RYpvdMWrjBz0oX2gAvU5xEISOCU+5pY=",
+  "Source": "MultiplePublisher.WebAPI",
+  "BasePath": "_content/MultiplePublisher.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\bin\Debug\net6.0\MultiplePublisher.Common.deps.json
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\bin\Debug\net6.0\MultiplePublisher.Common.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\bin\Debug\net6.0\MultiplePublisher.Common.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.csproj.AssemblyReference.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.AssemblyInfoInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.AssemblyInfo.cs
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.csproj.CoreCompileInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\refint\MultiplePublisher.Common.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\MultiplePublisher.Common.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Common\obj\Debug\net6.0\ref\MultiplePublisher.Common.dll

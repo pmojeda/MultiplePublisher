@@ -1,0 +1,17 @@
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Infrastructure.deps.json
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Infrastructure.runtimeconfig.json
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Infrastructure.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Infrastructure.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Common.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\bin\Debug\net6.0\MultiplePublisher.Common.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.csproj.AssemblyReference.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.AssemblyInfoInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.AssemblyInfo.cs
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.csproj.CoreCompileInputs.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.csproj.CopyComplete
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\refint\MultiplePublisher.Infrastructure.dll
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.pdb
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\MultiplePublisher.Infrastructure.genruntimeconfig.cache
+C:\sourceCode\STARTUP\MultiplePublisher\MultiplePublisher.Infrastructure\obj\Debug\net6.0\ref\MultiplePublisher.Infrastructure.dll
