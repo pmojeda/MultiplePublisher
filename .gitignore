@@ -1,0 +1,11 @@
+﻿.vs/MultiplePublisher/v17
+MultiplePublisher.Business/bin
+MultiplePublisher.Business/obj
+MultiplePublisher.Common/bin
+MultiplePublisher.Common/obj
+MultiplePublisher.Data/bin
+MultiplePublisher.Data/obj
+MultiplePublisher.Site/bin
+MultiplePublisher.Site/obj
+MultiplePublisher.WebAPI/bin
+MultiplePublisher.WebAPI/obj
